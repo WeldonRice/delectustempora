@@ -1,0 +1,30 @@
+{
+  "name": "delectustempora",
+  "version": "1.0.0",
+  "description": "Genreate a distributed app including smart contract to run on the ethereum network",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WeldonRice/delectustempora.git"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "accusantium",
+    "est",
+    "asperiores",
+    "dapp",
+    "sit",
+    "autem"
+  ],
+  "author": "AllisonRunolfsson",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/WeldonRice/delectustempora.git/issues"
+  },
+  "dependencies": {
+    "es6-promise": "^3.2.1",
+    "yeoman-generator": "^0.23.3"
+  }
+}
